@@ -1,6 +1,7 @@
 # High_Sales_Profitability_Dashboards
 
 **Objective:** Analyze retail sales data to identify low-margin products, optimize pricing, and improve profitability.
+
 📁**Data Source:** Superstore Excel dataset with 9,000+ rows of transaction-level data
 
 🧹**Data Cleaning:** Handled missing values, standardized formats, and structured the data using Python (Pandas)
